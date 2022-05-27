@@ -1,5 +1,4 @@
-Movie: Interstellar.
-Series: See.
-Food: Wheat noodles.
-Season: Fall.
-Country: Ireland.
+Name: Vladislav.
+Surname: Plikin.
+Pets: N/A.
+Salary: three rice plates per week.
