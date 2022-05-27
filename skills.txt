@@ -1,0 +1,5 @@
+qa theory
+instruments for files and versions operations
+qa instruments such a devtools, postman, charles, testrail, etc
+JS programming language (basics) via Node.JS platform for Postman
+etc
